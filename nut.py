@@ -551,8 +551,8 @@ if __name__ == '__main__':
 			Print.info('                       ;;;;;')
 			Print.info('               .=\',    ;:;;:,')
 			Print.info('              /_\', "=. \';:;:;')
-			Print.info('              @=:__,  \,;:;:\'')
-			Print.info('                _(\.=  ;:;;\'')
+			Print.info('              @=:__,  \\,;:;:\'')
+			Print.info('                _(\\.=  ;:;;\'')
 			Print.info('               `"_(  _/="`')
 			Print.info('                `"\'')
 
